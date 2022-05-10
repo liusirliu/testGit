@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("44444444-hot-fix2");
         System.out.println("55555555-push-commit");
         System.out.println("55555555-push-commit");
+         System.out.println("6666666-pull-commit");
     }
 }
