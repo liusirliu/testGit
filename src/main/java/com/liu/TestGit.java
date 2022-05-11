@@ -11,5 +11,6 @@ public class TestGit {
         System.out.println("55555555-push-commit");
         System.out.println("55555555-push-commit");
          System.out.println("6666666-pull-commit");
+         System.out.println("gitee-to get GitHub demo---");
     }
 }
